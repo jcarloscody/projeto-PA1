@@ -1,0 +1,15 @@
+form {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+.home  {
+    margin: 1rem auto;
+    text-align: center;
+}
+
+button {
+    margin-right: 1rem;
+    width: 100%;
+}

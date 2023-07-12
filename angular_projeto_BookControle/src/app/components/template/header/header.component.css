@@ -1,0 +1,49 @@
+.mat-toolbar{
+    background-color: black;
+    justify-content: center;
+    height: 12%;
+    color: white;
+    margin-top: 0;
+}
+
+img {
+    height: 3rem;
+}
+
+.linhas {
+    position: fixed;
+    left: 40px;
+}
+
+.linha2{
+    position: fixed;
+    left: 0;
+    margin-top: -1.2%;
+    height: 1.5%;
+    width: 15%;
+    background-color: red;
+}
+
+.linha1{
+    position: fixed;
+    left: 0;
+    height: 1.5%;
+    width: 10%;
+    background-color: red;
+}
+
+.linha3{
+    position: fixed;
+    left: 0;
+    margin-top: 1.2%;
+    height: 1.5%;
+    width: 15%;
+    background-color: red;
+    border-bottom-right-radius: 0px;
+}
+
+
+
+h1 {
+    margin-left: 20px;
+}

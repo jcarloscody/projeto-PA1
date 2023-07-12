@@ -1,0 +1,13 @@
+.container{
+    height: 83%;
+    background-color: beige;
+}
+
+i{
+    margin-right: 5px;
+}
+
+a {
+    display: block;
+    margin: 10px;
+}

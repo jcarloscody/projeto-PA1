@@ -1,0 +1,38 @@
+.content{
+    width: 90%;
+    margin: 1rem auto;
+}
+
+a {
+    cursor: pointer;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.title h1 {
+    font-weight: 500;
+}
+
+table{
+    width: 100%;
+}
+
+.edit {
+    color: yellowgreen;
+}
+
+.delete {
+    color: red;
+    padding-left: 10px;
+}
+
+.mat-header {
+    width: 4rem;
+}
+
+.content button {
+    margin-bottom: 1rem;
+}
